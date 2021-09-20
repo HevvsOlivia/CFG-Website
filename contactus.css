@@ -61,19 +61,42 @@ a {
                 font-family: 'PT Sans', sans-serif;
                    text-align: center;
                   width:230px;
-                          color: #c1c9c4; 
+                          color: ##9aa19e; 
+                          
               }
-    
+
+              h5 {
+                font-family: 'PT Sans', sans-serif;
+                color: #8a928e; 
+                text-align: center;
+                
+              }
+
+    ol {list-style-type: none;
+          font-family: 'PT Sans', sans-serif;
+           text-align: center;
+           align-content: left;
+           color: #9aa19e;
+    }
+
+    p {
+        margin-bottom: 100px;
+    }
+
 
 img {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+   
 }
 
-   p {  font-family:'PT Sans', sans-serif;
-    color: #727a75;
-    font-size: 110%;
-}
+
+    .specialText {
+        font-family: 'PT Sans', sans-serif;
+        color: #9aa19e;
+        padding-bottom: 2;
+    }
 
 body{
     background-color: #d1f7c8;
