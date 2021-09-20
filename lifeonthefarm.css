@@ -49,8 +49,12 @@ a {
       color: #a4c752;
        letter-spacing: 0.5mm;}
     
-   
+   p {  font-family:'PT Sans', sans-serif;
+    color: #727a75;
+    font-size: 110%;
+}
 
+iframe { padding-bottom: 20px;}
     
     body{
       background-color: #d1f7c8;
