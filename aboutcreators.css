@@ -1,13 +1,14 @@
 
+
  a {
 
 text-decoration: none;  
 color: #8a928e;
  }
 
- a 
+ 
 
- .homepage {
+ .greenlinks a {
    color: #a4c752;
  }
  
@@ -59,9 +60,10 @@ h2 { font-family: 'PT Sans', sans-serif;
   .specialText2 {
     font-family: 'PT Sans', sans-serif;
       color: #727a75;
-      padding-bottom: 50px;
+      padding-bottom: 30px;
+      text-align: center;
+      display: block;
   }
-
 ol {
   list-style-type: none;
   align-items: center;
@@ -71,7 +73,7 @@ ol {
   padding-left: 70px;
   font-family: 'PT Sans', sans-serif;
      text-align: center;
-    width: fit-content;
+    width:230px;
             color: #c1c9c4; 
 }
 
