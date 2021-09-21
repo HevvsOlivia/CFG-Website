@@ -54,7 +54,12 @@ a {
     font-size: 110%;
 }
 
-iframe { padding-bottom: 20px;}
+.video { 
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+
+}
     
     body{
       background-color: #d1f7c8;
@@ -77,3 +82,34 @@ iframe { padding-bottom: 20px;}
           color: #727a75;
     
     }
+
+p {
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+* {
+  box-sizing:border-box;
+}
+
+.column{
+  float:left;
+  width:33.33%;
+  padding:5px;
+
+}
+
+.row::after{
+content:"";
+display:table;
+clear:both;
+
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
