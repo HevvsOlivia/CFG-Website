@@ -61,7 +61,7 @@ a {
                 font-family: 'PT Sans', sans-serif;
                    text-align: center;
                   width:230px;
-                          color: ##9aa19e; 
+                          color: #9aa19e; 
                           
               }
 
@@ -72,12 +72,7 @@ a {
                 
               }
 
-    ol {list-style-type: none;
-          font-family: 'PT Sans', sans-serif;
-           text-align: center;
-           align-content: left;
-           color: #9aa19e;
-    }
+
 
     p {
         margin-bottom: 100px;
