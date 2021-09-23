@@ -108,9 +108,16 @@ body{
      font-size: 120%;
     
     }
+
+    .box1{
+      text-align: center;
+    }
     
     footer {
       font-family:'PT Sans', sans-serif;
           color: #727a75;
+          text-align: center;
     
     }
+
+    
