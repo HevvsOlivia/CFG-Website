@@ -10,23 +10,27 @@ a {
        color: #a4c752;
      }
      
+     
      ul {
-    
-        font-family: 'PT Sans', sans-serif;
-        list-style-type: none;
-        display: inline-block;
-        float: none;
-        text-align: center;
-        width: fit-content;
-          margin-inline-start: 15%;
-          padding-left: 45px;
-          color: #8a928e; 
-          
-    }
-    
-    .box1 {
+
+      font-family: 'PT Sans', sans-serif;
+      list-style-type: none;
+      display: inline-block;
+      float: none;
+      text-align: center;
+      width: fit-content;
+        margin-inline-start: 15%;
+        padding-left: 45px;
+        color: #8a928e; 
+        
+  }
+
+  .box1 {
       background-color: #8fe393;
+      
     }
+
+    
     
     h1 {
     font-family: 'PT Sans', sans-serif;
