@@ -123,3 +123,34 @@ text-align: center;
 footer{
   text-align: center;
 }
+
+
+
+
+.flex-grid {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-grid .col {
+  width: 32%;
+  margin-right: 20px;
+  width: 400px;
+  height: 300px;
+  padding-bottom: 50px;
+}
+    
+.flex-grid-buttons {
+  display:flex;
+  justify-content: space-between;
+  
+}
+
+.flex-grid-buttons .button1 {
+width:50%;
+margin-left: 150px;
+margin-top: 40px;
+text-align: center;
+}
+
+
+    
