@@ -96,29 +96,8 @@ a {
   
   }
 
-.row{
-    margin-top: 70px;
-    margin-bottom: 50px;
-}
 
-  
-  .row::after{
-  content:"";
-  display:table;
-  clear:both;
- 
 
-  }
-  
-  .row {
-    display: flex;
-    justify-content: center;
-  }
-
-.buttons{
-text-align: center;
-
-}
 
 footer{
   text-align: center;
