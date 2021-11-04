@@ -26,6 +26,10 @@ a {
         background-color: #8fe393;
       }
 
+      nav {
+        align-content: left;
+      }
+
       h1 {
         font-family: 'PT Sans', sans-serif;
         color: #a4c752;

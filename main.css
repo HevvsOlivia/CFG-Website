@@ -26,6 +26,7 @@ a {
     
     .box1 {
       background-color: #8fe393;
+    width:112%
     }
     
     h1 {
@@ -47,7 +48,8 @@ a {
     
     h2 { font-family: 'PT Sans', sans-serif;
       color: #a4c752;
-       letter-spacing: 0.5mm;}
+       letter-spacing: 0.5mm;
+          }
     
    p {  font-family:'PT Sans', sans-serif;
     color: #727a75;
@@ -128,7 +130,7 @@ footer{
 width:50%;
 margin-left: 150px;
 margin-top: 40px;
-text-align: center;
+text-align: right;
 }
 
 
